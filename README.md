@@ -1,3 +1,17 @@
+<h1> CREWMATE</h1>
+
+This is a social app project for roommates. The application allows you to create an account and a private profile. Each user has the option to:
+- joining an existing user group
+- creating a new group - the user gets admin privileges to manage users belonging to the group
+- editing profile data and access to the account.
+
+Each user belonging to the group has the option to:
+- creating or editing a shared timetable
+- create or edit a shared shopping list
+- edition of data of the group to which the group belongs, for example, the leading picture of the group, its nickname or description.
+
+The application is connected to a relational database in which are stored user and group data.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
